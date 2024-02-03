@@ -1,0 +1,18 @@
+
+# Practicas Programacion
+
+Los puntos realizados, además de los 5 básicos, son los siguientes:
+
+- (1 pto) Añade un contador de fichas comidas para cada uno de los jugadores. Se mostrará el contador de cada jugador cada vez que los dos jugadores muevan ficha.
+- (1 pto) Cuando un jugador se coma todas las fichas del adversario, gana la partida. Implementa esta lógica
+- (1 pto) Añade algo de diseño/color al juego utilizando alguna librería como JColor (u otra libreria similar)
+
+
+
+
+
+## Authors
+
+- Oscar Urbón Risueño
+- Cosmin Daniel Rusu
+- Gustavo Diaz
